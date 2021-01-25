@@ -62,34 +62,63 @@
     </div>
 
     
-    <section class="header-extradiv">
+    <section class="extradiv">
         <div class="container">
             <h1 class="text-center">Our Services</h1>
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
-                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:red"></i></a>
+                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Vehicals</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
                 </div>
             <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
-                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:red"></i></a>
+                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Equipment</h2>
-                    <p>We are providing 24/7 any vehical for your farm.</p>
+                    <p>We are providing 24/7 any equipment for your farm.</p>
                 </div>
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
-                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:red"></i></a>
+                    <a href="#"><i class="fas fa-handshake" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Consulting</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
                 </div>
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
-                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:red"></i></a>
+                    <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Sell Products</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
                 </div>
-            </div>
-        
-        </div>
-    
+            </div>    
+  </div></section>
+
+
+    <section class="serviceoffers" id=serviceid>
+    <div class="container heading text-center">
+      <h1>WHAT DO WE OFFER</h1>
+      <p class="text-center"></p>
+      <div class="row">
+      <div class="col-lg-6 col-10 offset-1 offset-lg-0">
+        <div class="names my-3">
+          <h4 class="text-left">Buy Products</h4>
+          <div class="progress w-75">
+          <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+      80%</div>
+    </div>
+  </div>
+  <div class="names my-3">
+          <h4 class="text-left">Sell Raw Material</h4>
+          <div class="progress w-75">
+          <div class="progress-bar progress-bar-striped progress-bar-animated bg-success active" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+      70%</div>
+    </div>
+  </div>
+  <div class="names my-3">
+          <h4 class="text-left">Sell Products</h4>
+          <div class="progress w-75">
+          <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+      80%</div>
+    </div>
+  </div>
+  </div>
+    </div>
     </section>
     
     

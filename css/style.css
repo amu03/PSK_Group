@@ -34,6 +34,7 @@ p{
 .nav-item a{
     color: #000!important;
     font-weight: bold;
+  
 }
 
 
@@ -81,11 +82,9 @@ p{
     text-decoration-line: none;
 }
 
-
-
-
-
-
+.extradiv{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+}
 
 
 
