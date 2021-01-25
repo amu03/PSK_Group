@@ -54,10 +54,7 @@
 			<div class="bt">
             <a href="#">A</a>
             <a href="#">B</a>
-        </div>
-		
-	</div>
-	
+        </div></div>	
 </section>  
     </div>
 
