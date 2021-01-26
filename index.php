@@ -5,7 +5,7 @@
 
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap" rel="stylesheet">
@@ -47,9 +47,9 @@
         <a class="nav-link" href="#">Register</a>
       </li>
       </ul>
-            </div></div>
-            </nav>
-  </section>
+            </div></section>
+        </div>            </nav>
+  
 <section class="header-section">
 	<div class="center-div">
 		<h1 class="font-weight-bold">We are Farmers!</h1>
@@ -118,9 +118,40 @@
     </div>
   </div>
   </div>
+          <div class="col-lg-6 col-10 offset-1 offset-lg-0">
+              <div class="row">
+              <div class="col-lg-2 col-2 service-icons">
+                  <i class="fa fa-shopping-cart" style="font-size:48px;color:#0040fa"></i>
+                  </div>
+                  <div class="col-lg-10 col-10">
+                  <h2>Buy Products</h2>
+                      <p>Here you can buy any products.</p>
+                  </div>
+              </div>
+              <div class="row">
+              <div class="col-lg-2 col-2 service-icons">                  
+                  <i class="fas fa-universal-access" style="font-size:48px;color:#0040fa"></i>
+                  </div>
+                  <div class="col-lg-10 col-10">
+                  <h2>Sell Raw Material</h2>
+                      <p>Here you can sellyour any raw materials.</p>
+                  </div>
+              </div>
+              <div class="row">
+              <div class="col-lg-2 col-2 service-icons">
+                  <i class="fas fa-universal-access" style="font-size:48px;color:#0040fa"></i>
+                  </div>
+                  <div class="col-lg-10 col-10">
+                  <h2>Sell Products</h2>
+                      <p>Here you can sell your any products.</p>
+                  </div>
+              </div>
+          </div>
+          
+          
     </div>
+        </div>
     </section>
-    
     
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
