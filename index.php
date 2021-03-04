@@ -2,7 +2,6 @@
 <html>
 <head>
 	<title>PSK Group</title>
-
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style1.css">
@@ -61,32 +60,36 @@
 </section>  
     </div>
 
-    
-    <section class="extradiv">
+    <section id="extradiv">
+    <div class="ourservice">
         <div class="container">
             <h1 class="text-center">Our Services</h1>
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
+                <div class="box">
                     <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Vehicals</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
-                </div>
+                </div></div>
             <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
+            <div class="box">
                     <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Equipment</h2>
                     <p>We are providing 24/7 any equipment for your farm.</p>
-                </div>
+                </div></div>
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
+                <div class="box">
                     <a href="#"><i class="fas fa-handshake" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Consulting</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
-                </div>
+                </div></div>
                 <div class="col-lg-3 col-md-3 col-12 d-block m-auto text-center">
+                <div class="box">
                     <a href="#"><i class="fas fa-tractor" style="font-size:48px;color:#0040fa"></i></a>
                     <h2>Sell Products</h2>
                     <p>We are providing 24/7 any vehical for your farm.</p>
-                </div>
-            </div>    
+                </div></div>
+            </div> </div>   
   </div></section>
 
 
@@ -146,17 +149,171 @@
                       <p>Here you can sell your any products.</p>
                   </div>
               </div>
+          </div>              
+    </div></div>
+    </section>
+    <section class="achivements">
+      <div class="container headings text-center">
+        <h1 class="tect-center font-weight-bold">OUR ACHIVEMENTS</h1>
+        <p class="text-center">These are our achivements</p>
+      </div>
+      <div class="container d-flex  justify-content-around align-item-center text-center">
+        <div>
+          <h1 class="count">100</h1>
+          <p>Farmers bought our products</p>
+        </div>
+        <div>
+          <h1 class="count">200</h1>
+          <p>Farmers sold their products</p>
+        </div>
+        <div>
+          <h1 class="count">100</h1>
+          <p>Farmers took our Vehicals</p>
+        </div>
+        <div>
+          <h1 class="count">100</h1>
+          <p>Farmers took our Equipment</p>
+        </div>
+        <div>
+          <h1 class="count">100</h1>
+          <p>Farmers sold their raw products</p>
+        </div>
+      </div>
+    </section>
+    <section class="farmers">
+    <div class="container headings text-center">
+        <h1 class="text-center font-weight-bold">OUR HAPPY FARMERS</h1>
+        <p class="text-center">These are our happy Farmers</p>
+      </div>
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="3000">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-lg-4 col-md-4  col-12">
+                  <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Pravin Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Yogesh Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Subhash Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                <h2><i class="fa fa-user">&nbsp;&nbsp;Chitra Khaladkar</i></h2>                
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Pragati Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Pramila Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;Savita Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;XYZ Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                <div class="box"> 
+                    <h2><i class="fa fa-user">&nbsp;&nbsp;ABC Khaladkar</i></h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt nesciunt ipsam, cum autem tenetur provident ab porro molestiae blanditiis quidem quae deleniti. At ratione, cumque odit adipisci ut ipsa impedit.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
           </div>
           
-          
-    </div>
         </div>
-    </section>
-    
+</section>
+
+<section class="contactus" id="contactid">
+  <div class="container headings text-center">
+    <h1 class="text-center font-weight-bold">Contact Us</h1>
+    <p class="text-capitalize"> If you have any query feel free to ask us.</p>
+  </div>
+  <div class="container ">
+    <div class="row">
+      <div class="col-lg-8 col-md-8 col-10 offset-lg-2 offset-md-2 col-1">
+              <form action="/action_page.php" class="was-validated">
+            <div class="form-group">              
+              <input type="text" class="form-control" id="uname" placeholder="Enter username" name="uname" autocomplete="off" required>
+            </div>
+            <div class="form-group">              
+              <input type="email" class="form-control" id="email" placeholder="Enter email address" name="email" autocomplete="off" required>
+            </div>
+            <div class="form-group">              
+              <input type="text" class="form-control" id="mobile" placeholder="Enter mobile no." name="mobile" autocomplete="off" required>
+            </div>
+            <div class="form-group">              
+              <textarea class="form-control" rows="5" id="comment" placeholder="Write comment" name="comment" autocomplete="off" required></textarea>
+            </div>
+            <div class="form-group form-check">
+              <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" name="remember" required> I agree on T&C.
+                <a href="../PSK_Group/tc/pk.txt" target="_blank" > View T&C</a>
+              </label>
+            </div>
+            <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+          </form>
+  </div>
+    </div>
+  </div>
+</section>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  
+  <script>
+    $('.count').counterUp({
+      delay:20,
+      time:1000
+    })
+
+    $('.carousel-item').carousel({
+  interval: 1000
+});
+  </script>
 
 </body>
 </html>

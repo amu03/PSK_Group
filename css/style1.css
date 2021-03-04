@@ -85,31 +85,101 @@ p{
     text-decoration-line: none;
 }
 
-.extradiv{
-    box-shadow: 0 0 20px 0 #223;
-    background: rgb(129, 17, 17);
-    border: medium none;
-    border-radius: 3px;
+#extradiv box{
+    
+    padding: 20px;
+    position: relative;
+    margin-bottom: 30px;
+    content: "\f10d";
+    box-shadow: 10px 5px 10px 0 rgba(45, 177, 52, 0.603);
+    width: 100%;
+    display: block;
+    text-align: center;
+    background: #4ceeee5d;
+    border-radius: 20px;
 }
+
 
 .serviceoffers{
-    background: #f7f7f9;
-    padding: 50px 0;
-    margin-bottom: 50px;
+    background: #fff;
+    padding: 40px;
 }
-
 
 .headings{
     margin-bottom: 50px;
     
 }
 
+.achivements{
+    background-color: lightsalmon;
+    padding: 50px 0;
+}
+.achivements p{
+    color: white;
+}
+.farmers{
+    margin: 40px;
+    background: linear-gradient(45deg, rgba(219, 159, 29, 0.432) 50%, pink 50%);
+    height: 70vh;
+}
+.farmers h1 p{
+    padding: 50px 0;
+    background-color: white;
+}
 
+.farmers p{
+    color: rgba(14, 13, 13, 0.815);
+    font-family:'Times New Roman', Times, serif;
+        
+}
+.carousel-item{
+    padding-left: 250px;
+    padding-right: 300px;
+}
+.carousel-item .box p{
+text-align: justify;
+ }
+ .carousel-item .box h2{
+    text-align: center;
+     }
+.carousel-item .box{
+     padding: 20px;
+     position: relative;
+     margin-bottom: 30px;
+     content: "\f10d";
+     box-shadow: 10px 5px 10px 0 rgba(47, 45, 177, 0.603);
+     width: 100%;
+     display: block;
+     text-align: center;
+     background: #4ceeee5d;
+     border-radius: 20px;
+ }
+ 
+ .carousel-item .box:hover{
+     background-color: rgba(224, 221, 39, 0.582);
+ }
+ .carousel-indicators{
+     left: 0;
+     margin-top: 10px;
+     bottom: -70px;
 
-
-
-
-
-
-
-
+ }
+ .carousel-indicators li{
+     border-radius: 50%
+     height: 20px!important;     
+     width: 10px;
+     background-color: #red!important;
+ }
+ 
+ .contactus{
+     width: 100%;
+     height: 100vh;
+     padding: 80px 0;
+     position: relative;
+     content: "\f10d";
+     position: absolute;
+     left: 0;
+     right: 0;
+     background: rgba(43, 160, 214, 0.651);
+     clip-path: polygon(100% 0%, 100% 75%, 50% 100%, 0 75%, 0 0);
+ }
